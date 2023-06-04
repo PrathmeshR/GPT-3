@@ -2,6 +2,11 @@
  Link for the site = https://chatgptsite.netlify.app/
 
 
+![Screenshot (19)](https://github.com/PrathmeshR/GPT-3/assets/80195698/323ea8ad-0ade-4c3f-aa7a-832192eed865)
+
+
+
+
 # Introduction
 This is a code repository for the corresponding video tutorial.
 
